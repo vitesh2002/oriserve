@@ -8,6 +8,7 @@ A simple FastAPI backend that connects to GPT-4 to summarize customer messages a
 
 ## Setup
 
+- Works seamless on a ubuntu machine
 ```bash
 git clone https://github.com/vitesh2002/oriserve.git
 cd oriserve
